@@ -1,0 +1,18 @@
+[
+  {
+    "hashedId": "8w9/AZiOXxUVweP+KOMdAabg4+ApAiPH5XmQYpnuARA=",
+    "date": "28.11.2022",
+    "amount": -1710,
+    "paymentType": "card_irl",
+    "category": "supermarket",
+    "fullDescription": "Debit card point of sale payment CHF ,26.11.2022 16:54 Migros M Dietikon L ,card no 5574 88XX XXXX 6320"
+  },
+  {
+    "hashedId": "0gy2QEzQGOUfHVSM9WNd7ntdrYvVd/WVHgSr8LMcTts=",
+    "date": "21.12.2022",
+    "amount": -780,
+    "paymentType": "twint",
+    "category": "public_transportation",
+    "fullDescription": "TWINT Payment ,SBB EasyRide App 3000 Bern ,of 20.12.22 at 06:49,SBB EasyRide App,3000 Bern"
+  }
+]
